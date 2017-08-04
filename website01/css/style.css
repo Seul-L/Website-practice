@@ -1,20 +1,22 @@
 body {
       text-align: center;
-      background: url("https://unsplash.com/collections/232812/blog-header-images?photo=GQD3Av_9A88");
+      background: url("https://images.pexels.com/photos/395676/pexels-photo-395676.jpeg?w=940&h=650&auto=compress&cs=tinysrgb");
       background-size: cover;
       background-position: center;
       color: #3c3c3c;
       font-family: helvetica;
+      padding: 50px 0px 0px 0px;
     }
     p {
-      font-size: 22px;
+      font-size: 20px;
     }
     input {
-      border: 0;
+      border: 0.5;
       padding: 10px;
-      font-size: 18px;
+      font-size: 14px;
     }
     input[type="submit"] {
+      border: 1px solid #1e90ff;
       background: #1e90ff;
       color: white;
     }
