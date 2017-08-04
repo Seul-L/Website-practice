@@ -1,0 +1,20 @@
+body {
+      text-align: center;
+      background: url("https://unsplash.com/collections/232812/blog-header-images?photo=GQD3Av_9A88");
+      background-size: cover;
+      background-position: center;
+      color: #3c3c3c;
+      font-family: helvetica;
+    }
+    p {
+      font-size: 22px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: #1e90ff;
+      color: white;
+    }
