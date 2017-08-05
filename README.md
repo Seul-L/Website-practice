@@ -1,2 +1,2 @@
-# Website-practise
-Mini practise of website design &amp; development
+# Website-practice
+Mini practice of website design &amp; development
